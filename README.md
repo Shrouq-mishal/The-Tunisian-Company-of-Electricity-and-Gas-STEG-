@@ -5,6 +5,6 @@ The Tunisian Company of Electricity and Gas (STEG) is a public and a non-adminis
 Using the client’s billing history, the aim of the challenge is to detect and recognize clients involved in fraudulent activities.
 The solution will enhance the company’s revenues and reduce the losses caused by such fraudulent activities.
 
-##Data Problem
+## Data Problem
 Building a model that will help classify which customer is likely to commit fraud and by that saving the company from making losses.
  
